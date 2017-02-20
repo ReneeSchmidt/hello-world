@@ -1,2 +1,3 @@
 # hello-world
-A test for learning how to use github
+
+Just testing out commits at the moment
